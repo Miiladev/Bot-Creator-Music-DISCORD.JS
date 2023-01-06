@@ -11,13 +11,13 @@
 * Si el bot te gusta no dudes en compartir con tus amigos
 
 ## ⚠️ MPORTANTE ⚠️
-El bot necesita de los` intent`
+El bot necesita de los `intent`
 
-* Los intent se activan en el **Portal** de discord
+* Los `intent` se activan en el **Portal** de discord
 
   > Link: https://discord.com/developers/applications
 
-  >![image](https://user-images.githubusercontent.com/116461642/211118041-fa5ec72c-1011-4ce2-b034-22007dd8362e.png)
+  > ![image](https://user-images.githubusercontent.com/116461642/211118041-fa5ec72c-1011-4ce2-b034-22007dd8362e.png)
 
 El bot necesita de un archivo `.env` que contenga DISCORD_TOKEN="AQUI PONDRIAS TU TOKEN DEL BOT".
 
