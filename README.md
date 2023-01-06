@@ -16,4 +16,4 @@ El bot necesita de un archivo `.env` que contenga DISCORD_TOKEN="AQUI PONDRIAS T
 El archivo `env` debe ir en la misma posición del **index.js**
 
 * Por que no hay ese archivo en github?
-  > Por que github no se puede utilizar un nombre que comience por un punto “.” porque este tipo de nombres están reservados para el sistema.
+  > Por que en github no se puede utilizar un nombre que comience por un punto `“.”` porque este tipo de nombres están reservados para el sistema.
