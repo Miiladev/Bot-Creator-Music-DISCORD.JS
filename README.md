@@ -21,7 +21,7 @@
 
 **El bot necesita de un archivo `.env` que contenga DISCORD_TOKEN="AQUI PONDRIAS TU TOKEN DEL BOT".**
 
-![image](https://user-images.githubusercontent.com/116461642/211116350-57725006-e4b6-4847-99df-d2986c1b6b66.png)
+  > ![image](https://user-images.githubusercontent.com/116461642/211116350-57725006-e4b6-4847-99df-d2986c1b6b66.png)
 
 **El archivo `env` debe ir en la misma jerarquía que el index.js**
 
