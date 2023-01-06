@@ -1,0 +1,39 @@
+{
+    "voice": "No estas en un canal de voz",
+    "voice_compart": "No compartimos el mismo canal de voz",
+    "autoplay": {
+        "queue": "No hay música reproduciéndose",
+        "descrip": "`AutoPlay: \\`${autoplay ? 'On' : 'Off'}\\` `"
+    },
+    "pause": {
+        "queue": "No hay música reproduciéndose",
+        "paused": "La música ya esta en pausa",
+        "muscic": "No hay música reproduciéndose",
+        "descrip": "`La música **${music.songs[0].name}** fue pausada`"
+    },
+    "play": "`Buscando la cancion **${music}**`",
+    "skip": {
+        "queue": "No hay música reproduciéndose",
+        "descrip": "La música actual fue saltada"
+    },
+    "stop": {
+        "queue": "No hay música reproduciéndose",
+        "descrip": "Saliendo del canal...."
+    },
+    "volumen": {
+        "queue": "No hay música reproduciéndose",
+        "valor": "valor invalido... vuelve a intentarlo",
+        "descrip": "`Volumen: ${volume}`"
+    },
+    "playlist": {
+        "titulo": "`${interaction.guild.name} | ${queue.songs.length} ${queue.songs.length > 1 ? 'Canciones' : 'Canción'}`",
+        "descrip": "`Música actual: \\`${queue.songs[0].name}\\` | [LINK](${queue.songs[0].url})\n\n`",
+        "queue": "No hay música reproduciéndose"
+    },
+    "resume": {
+        "queue": "No hay música reproduciéndose",
+        "paused": "La música ya está sonando",
+        "music": "No hay música en este momento.",
+        "resume": "`La canción **${music.songs[0].name}** fue reanudada`"
+    }
+}
