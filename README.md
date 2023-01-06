@@ -11,7 +11,7 @@
 * Si el bot te gusta no dudes en compartir con tus amigos
 
 ## ⚠️ MPORTANTE ⚠️
-El bot necesita de los `intent`
+**El bot necesita de los `intent`**
 
 * Los `intent` se activan en el **Portal** de discord
 
@@ -25,7 +25,7 @@ El bot necesita de un archivo `.env` que contenga DISCORD_TOKEN="AQUI PONDRIAS T
 
 El archivo `env` debe ir en la misma jerarquía que el **index.js**
 
-![image](https://user-images.githubusercontent.com/116461642/211116446-a279b978-668a-4826-b61f-b03b532666e1.png)
+  > ![image](https://user-images.githubusercontent.com/116461642/211116446-a279b978-668a-4826-b61f-b03b532666e1.png)
 
 * Por que no hay el archivo `.env` en github?
   > Por que en github no se puede utilizar un nombre que comience por un punto `“.”` porque este tipo de nombres están reservados para el sistema.
