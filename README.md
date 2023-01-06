@@ -1,4 +1,5 @@
-![image](https://user-images.githubusercontent.com/116461642/211115436-5e3fe2bd-12b0-448f-86cd-830f4481e2f7.png)
+![image (1)](https://user-images.githubusercontent.com/116461642/211117446-75e59dc8-bc60-489a-979e-36d0277869d5.png)
+
 
 # 🎵 Bot **Creator** de música para **Discord** 🎵
 > El bot fue creado por **Miila**, si necesitas si tienes problemas al ocupar el bot no dudes en escribirme
