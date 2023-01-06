@@ -15,7 +15,7 @@ El bot necesita de un archivo `.env` que contenga DISCORD_TOKEN="AQUI PONDRIAS T
 
 ![image](https://user-images.githubusercontent.com/116461642/211116350-57725006-e4b6-4847-99df-d2986c1b6b66.png)
 
-El archivo `env` debe ir en la misma posición del **index.js**
+El archivo `env` debe ir en la misma jerarquía que el **index.js**
 
 ![image](https://user-images.githubusercontent.com/116461642/211116446-a279b978-668a-4826-b61f-b03b532666e1.png)
 
