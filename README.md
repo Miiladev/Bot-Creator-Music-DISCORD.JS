@@ -16,6 +16,7 @@
 
   > Link: https://discord.com/developers/applications
 
+  > ![image](https://user-images.githubusercontent.com/116461642/211119423-3a53f50e-372e-43a5-a133-e552b69abd2c.png)
   > ![image](https://user-images.githubusercontent.com/116461642/211118041-fa5ec72c-1011-4ce2-b034-22007dd8362e.png)
 
 **El bot necesita de un archivo `.env` que contenga DISCORD_TOKEN="AQUI PONDRIAS TU TOKEN DEL BOT".**
