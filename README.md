@@ -23,8 +23,9 @@
 * El token se obtiene en el **Portal** de discord
 
  > Hacer click en el boton de **Reset Token**, la pagina te mostrara tu nuevo token
- ![image](https://user-images.githubusercontent.com/116461642/211119423-3a53f50e-372e-43a5-a133-e552b69abd2c.png)
- ![image](https://user-images.githubusercontent.com/116461642/211118181-7698e928-f3af-408a-8640-d674b97f8dff.png)
+
+  ![image](https://user-images.githubusercontent.com/116461642/211119423-3a53f50e-372e-43a5-a133-e552b69abd2c.png)
+  ![image](https://user-images.githubusercontent.com/116461642/211118181-7698e928-f3af-408a-8640-d674b97f8dff.png)
 
 **El bot necesita de un archivo `.env` que contenga DISCORD_TOKEN="AQUI PONDRIAS TU TOKEN DEL BOT".**
 
